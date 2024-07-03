@@ -47,9 +47,3 @@ console.log(person2); // -> { firstName: 'Alice', lastName: 'Smith', married: fa
 * For `marry`, you can re-use your `getFullName` function in order to get each person's `spouseName`. Just pass in the person whose `fullName` you want, and you'll get back your new `spouseName` property
 * Same as above for `divorce`; you'll need to research a way to REMOVE the key `spouseName` from the given people. Simply setting the properties to `undefined` or `null` won't be sufficient
 
-
-
-
-
-
-
